@@ -1,0 +1,89 @@
+3d.html
+
+This collection of stills illustrates the use of luminescence, use of code to create photo realistic images, creation of occlusion terrain with added specularity, and using materials to create a displacement map. 
+
+3da.html
+
+These are examples of 3d animations. 
+
+3ds.html
+
+These stills illustrate objects I have created. 
+
+arta_01.html
+
+Using 3dSMAX, I combined  several animation techniques such as path tracking, material animation, and camera animation to render individual frames of animation.  Then using a third party movie editor, Virtual Dub, I combined  these animation techniques and applied them to a single video. I created the project as a tutorial for myself. 
+
+arta_02.html
+
+For this animation, I used 3dSMAX's powerful material control system to create a  material animation  producing the illusion of reverse flow, without sacrificing readability. This was my first attempt using this complex  material control system, and despite its difficulty, I completed the project.  
+
+arta_03.html
+
+These animated boxes use a pathing system to follow an illuminated track. The boxes turn sharply, creating a highly mechanical appearance from a third person camera perspective. I also applied material effects, such as self illumination with glow, to give the path a glowing effect.  The background nebula also is animated.
+
+arta_04.html
+
+ I developed this video of two Mini mods  as a college project for my animation class.The videos are the end scenes of the two mini games. The first video is  one of my senior projects.  I  created a simple game modification using VALVe's SOURCE game engine.  The mini mod tells a story about a futuristic soldier turned engineer. The 2nd mod I created along with two other students. I created this video again using VALVe's game engine. The story is a futuristic tale  about the epic battle between Microsoft and Apple  spilling into actual conflict. 
+
+
+
+
+
+
+
+
+
+arts_01.html
+
+This example illustrates the use of  Radiosity with luminescent materials applied to a 3d object using 3dSMAX with refraction. The materials bounce their light in the environment, while the refractive surface enhances the light bounce through the room. Because of the lighting challenges, this was a particularly interesting Still to make.
+
+arts_02.html
+
+I created this still using a  POVRAY (Persistence of Vision Raytracer) tool which allows creation of 3d content using code. In one day, I  taught myself to use this technique .  The tool permits highly powerful rendering and creation of photo realistic stills. However, I often like to create scenes that are anything but realistic, such as the alien Cube scene shown here.
+
+arts_03.html
+
+Using 3dSMAX, I  created two planets with the appearance of occludable terrain controlled by the displacement of the materials. I applied specularity and self illuminating materials to each of the spheres adding the illusion that the planets glow from within. The nebulous star field background  
+gives the planets a formidable appearance. I created this project to learn to use materials to build the 3d displacement map seen on both planets.
+
+index.html
+
+My name is David Parsons. I graduated in May 2010 from the  University of the Pacific with a Bachelor of Science degree in Computer Science with a game and simulation track. The game and simulation track allowed me to develop my interest in virtual reality and 3d animation.  I am looking for an entry level position in a business or industry utilizing virtual reality or 3d animation for research and development, training, design, or any other application.
+misc.html
+
+---NOTHING---
+
+pg.html
+
+This collection programs are examples of projects I developed in college.
+
+pg_01.html
+
+This game started as a Opengl project that I finsihed in my game design class. The orignal idea was to use Flash, but I felt that c++ and opengl could create a better overall game. The game has a human player trying to capture coins on a board while evading an enemy AI player. The game ends when the player dies at the hands of the AI player or  when the human player captures all of the coins. The game features an option that allows human vs human play  with another human controlling the AI player's character.
+
+
+
+
+
+
+
+pg_02.html
+
+I created this program as a project for my AI class. The purpose was to create a very simple neural network with digital neurons that will learn colors.  The network learns the colors from a file containing various RGB (255,0,0)RED values.   The program reads through the color files one by one and attempts to learn the various RGB value's color. A data folder found with the program contains the results.
+
+pg_03.html
+
+This is another AI program that has a program try to distinguish a word from jumbled letters the program uses a corpus or a learning document to train it self on what is a correct word then using both a unifuction which looks at one letter at a time and a bifunction that looks at two letters at a time the program will attempt to find the correct word.(results can be found in there data folder found with the program)
+
+pg_04.html
+
+This example was a both a school project and research project I did with my professor,  Dr. Daniel Cliburn, and three other students. The research paper is entitled "The Effect of Teleportation on Recollection of the Structure  of a  Virtual World."The European Association for Virtual Reality and Augmented Reality(EuroVR), selected the paper for presentation at their December 2009 International Joint Virtual Reality Conference (JVRC) - the 15th Eurographics Symposium on Virtual Environments, in Lyon, France. http://jvrc09.inrialpes.fr   I traveled to France with Dr. Cliburn and Prakash Surya and co-presented the paper.Theconference selected color stills from my virtual world as illustrations for the back cover and last inside page of the conference brochure.  My stills were the only color images in the brochure. Mr. Surya and I also were the only undergraduates at the conference.  All other attendees and presenters had master's or doctorate degrees or were candidates for those degrees. The  purpose of this project was to test the ability of people to recall structure, geography, and environment when using of different types of transportation, such as free roaming, teleportation, tracksystem( how a train takes you places). We were able to test properly the first two methods.  The test revealed that people who walk to a location better remember how to get there than those how used the teleportation.  My main role in the study was creating the virtual environment and programming all of the 3d animation. Using a template for an open gl World, I created the project's opengl environment using c++ and GLUT(an opengl environment).   For me, creating the 3d world was the most enjoyable enjoyable aspect of the project .
+
+pg_05.html
+
+ This is a fun example of Object oriented programming. I created all objects from other objects with inherited properties. I enjoyed making this  because most object oriented programs are not necessarily exciting.  So I decided to make something interesting to me. This project also was a test subject to make a game, even if the game is so difficult that the game itself actually  may not be fun, the experience making it was fun and terrific learning experience.
+
+re.html
+
+SEE RESUME
